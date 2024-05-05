@@ -1,1 +1,1 @@
-# Genetic-Analysis
+The goal is to perform analysis and find the best clustering technique and best group of Genes that can be used to cluster similar species in same cluster groups. A detailed report in PDF format is attached along with 2 ipynb files containing the analysis and the code
